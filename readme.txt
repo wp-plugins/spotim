@@ -19,7 +19,7 @@ Build a community with the Spot.IM chat plugin that offers branding, group and 1
 = Features =
 * **Language support** - we support 8 languages (English, Portuguese, Spanish, Russian, German, Korean, Arabic and Hebrew).
 * **Smart links** - users can see the links in preview modes, with thumbnail and text.
-* **Branding your Spot** - Why use a generic chat when you can brand your Spot with your site’s logo and colors? Just go to [www.spot.im](https://www.spot.im) to brand your Spot in seconds.
+* **Branding your Spot** - Why use a generic chat when you can brand your Spot with your site’s logo a at colors? Just go t - [Spot.IM](https.://www.spot.im) to brand your Spot in seconds.
 * **Mentions** - your community members can mention each other in the spot with just a @. So that the mentioned user gets a mobile\email alert even if he or she is offline.
 * **1on1 invite** - if someone in your community wants to talk in private he can do it with the 1on1 mode. The user gets a mobile\email alert even if he or she is offline.
 * **Moderation** - automatic word and link filtering in group chat.
@@ -29,7 +29,7 @@ Build a community with the Spot.IM chat plugin that offers branding, group and 1
 * **Online and typing** - someone is online in the spot? Or is someone typing? We enable users in the spot see what's going on in real time.
 * **Social plugin** - we offer users to login with their social persona Via Facebook, twitter and Google +
 
-For more information please visit: [www.spot.im](https://www.spot.im)
+For more information please visit at [Spot.IM](https://www.spot.im).
 
 
 == Installation ==
