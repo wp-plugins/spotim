@@ -1,6 +1,6 @@
 === Spot.IM ===
 Contributors: idanm
-Tags: Spot.IM, comments, chat, spot, spots, wordpress chat
+Tags: Spot.IM, comments, chat, spot, spots, social, social plugin, message, messages, private messages, public chat
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
@@ -19,7 +19,7 @@ Build a community with the Spot.IM chat plugin that offers branding, group and 1
 = Features =
 * **Language support** - we support 8 languages (English, Portuguese, Spanish, Russian, German, Korean, Arabic and Hebrew).
 * **Smart links** - users can see the links in preview modes, with thumbnail and text.
-* **Branding your Spot** - Why use a generic chat when you can brand your Spot with your site’s logo and colors? Just go to www.spot.im to brand your Spot in seconds.
+* **Branding your Spot** - Why use a generic chat when you can brand your Spot with your site’s logo and colors? Just go to [www.spot.im](https://www.spot.im) to brand your Spot in seconds.
 * **Mentions** - your community members can mention each other in the spot with just a @. So that the mentioned user gets a mobile\email alert even if he or she is offline.
 * **1on1 invite** - if someone in your community wants to talk in private he can do it with the 1on1 mode. The user gets a mobile\email alert even if he or she is offline.
 * **Moderation** - automatic word and link filtering in group chat.
