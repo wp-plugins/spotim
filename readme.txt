@@ -29,7 +29,7 @@ Build a community with the Spot.IM chat plugin that offers branding, group and 1
 * **Online and typing** - someone is online in the spot? Or is someone typing? We enable users in the spot see what's going on in real time.
 * **Social plugin** - we offer users to login with their social persona Via Facebook, twitter and Google +
 
-For more information please visit: www.spot.im
+For more information please visit: [www.spot.im](https://www.spot.im)
 
 
 == Installation ==
