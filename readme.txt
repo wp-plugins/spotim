@@ -15,8 +15,6 @@ Build a community with the Spot.IM chat plugin that offers branding, group and 1
 
 [youtube https://www.youtube.com/watch?v=EI_-5-YT198]
 
-For more information please visit: [www.spot.im](https://www.spot.im).
-
 
 = Features =
 * **Language support** - we support 8 languages (English, Portuguese, Spanish, Russian, German, Korean, Arabic and Hebrew).
