@@ -11,7 +11,7 @@ Increase your time on site and get your community talking, with your own branded
 
 == Description ==
 
-Build a community with the Spot.IM chat plugin that offers branding, group and personal chat, sharing media, liking comments and many more awesome features that bring people together.
+Build a community with the [Spot.IM](https://www.spot.im) chat plugin that offers branding, group and personal chat, sharing media, liking comments and many more awesome features that bring people together.
 
 [youtube https://www.youtube.com/watch?v=EI_-5-YT198]
 
@@ -20,7 +20,7 @@ As part of our spot we offer a variety of features, so users and spot owner can 
 
 * **Language support** - we support 8 languages (English, Portuguese, Spanish, Russian, German, Korean, Arabic and Hebrew).
 * **Smart links** - users can see the links in preview modes, with thumbnail and text.
-* **Branding your Spot** - Why use a generic chat? when you can brand your Spot with your site’s logo and colors. Just go to Spot.IM and brand your Spot in seconds.
+* **Branding your Spot** - Why use a generic chat? when you can brand your Spot with your site’s logo and colors. Just go to [Spot.IM](https://www.spot.im) and brand your Spot in seconds.
 * **Mentions** - your community members can mention each other in the spot with just a @. So that the mentioned user gets a mobile/email alert even if he or she is offline.
 * **Personal invite** - if someone in your community wants to talk in private he can do it with the personal mode. The user gets a mobile/email alert even if he or she is offline.
 * **Moderation** - automatic word and link filtering in group chat.
