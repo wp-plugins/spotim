@@ -1,5 +1,5 @@
 === Spot.IM - Everywhere Social Network ===
-Contributors: idanm
+Contributors: idanm, bensh
 Tags: Spot.IM, comments, chat, talk, communicate, spot, spots, social, social plugin, message, messages, private messages, public chat
 Requires at least: 3.0.1
 Tested up to: 4.0
